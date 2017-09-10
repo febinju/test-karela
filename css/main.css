@@ -2,9 +2,9 @@
 	Template Name: Flosix
 	Author: Designstub
 	Author URI: http://www.designstub.com
-	
-	
-	
+
+
+
 /* ------------------------------------------------------------------------------
 	Typography
 -------------------------------------------------------------------------------*/
@@ -295,6 +295,36 @@ ul li {
 
 .banner {
 	background-image: url(../images/banner.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	min-height: 750px;
+}
+.bannerserv {
+	background-image: url(../images/bannersevr.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	min-height: 750px;
+}
+.bannerwork {
+	background-image: url(../images/bannerwork.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	min-height: 750px;
+}
+.bannerabout {
+	background-image: url(../images/bannerabout.jpg);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
